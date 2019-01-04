@@ -68,4 +68,3 @@ let checkOut = `Your total cost is $${total()}, which will be charged to the car
 return checkOut
 }
 }
-
